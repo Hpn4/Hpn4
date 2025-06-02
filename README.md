@@ -3,7 +3,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hpn4&show=reviews,prs_merged&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hpn4&show=reviews,prs_merged&show_icons=true&theme=holi&include_all_commits=true" />
 </p>
 
 <p align='center'>
@@ -75,4 +75,18 @@
   <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
+</p>
+
+<p align='center'>
+  Pinned:
+</p>
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DigitalHolography&repo=Holovibes&theme=holi" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hpn4&repo=HEngine&theme=holi&description_lines_count=1" />
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hpn4&repo=AdventOfCode&theme=holi&description_lines_count=1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hpn4&repo=Gamma_Leonis-mastodonFX&theme=holi&description_lines_count=1" />
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hpn4&repo=HMessager&theme=holi&description_lines_count=1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hpn4&repo=VintedBot&theme=holi&description_lines_count=1" />
 </p>
