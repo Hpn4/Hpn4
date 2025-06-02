@@ -80,13 +80,29 @@
 <p align='center'>
   Pinned:
 </p>
+
+<p align="center">
+</p>
+
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DigitalHolography&repo=Holovibes&theme=holi" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hpn4&repo=HEngine&theme=holi&description_lines_count=1" />
+  <a href="https://github.com/DigitalHolography/Holovibes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DigitalHolography&repo=Holovibes&theme=holi" />
+  </a>
+  <a href="https://github.com/Hpn4/HEngine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hpn4&repo=HEngine&theme=holi&description_lines_count=1" />
+  </a>
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hpn4&repo=AdventOfCode&theme=holi&description_lines_count=1" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hpn4&repo=Gamma_Leonis-mastodonFX&theme=holi&description_lines_count=1" />
+  <a href="https://github.com/Hpn4/AdventOfCode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hpn4&repo=AdventOfCode&theme=holi&description_lines_count=1" />
+  </a>
+  <a href="https://github.com/Hpn4/Gamma_Leonis-mastodonFX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hpn4&repo=Gamma_Leonis-mastodonFX&theme=holi&description_lines_count=1" />
+  </a>
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hpn4&repo=HMessager&theme=holi&description_lines_count=1" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hpn4&repo=VintedBot&theme=holi&description_lines_count=1" />
+  <a href="https://github.com/Hpn4/HMessager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hpn4&repo=HMessager&theme=holi&description_lines_count=1" />
+  </a>
+  <a href="https://github.com/Hpn4/VintedBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hpn4&repo=VintedBot&theme=holi&description_lines_count=1" />
+  </a>
 </p>
