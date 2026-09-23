@@ -1,9 +1,5 @@
 <p align='center'>
-  22 yo computer science engineering student at EPITA.
-</p>
-
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hpn4&show=reviews,prs_merged&show_icons=true&theme=holi&include_all_commits=true" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58BCF7&center=true&width=435&lines=Computer+Science+Engineer+%40+EPITA;Looking+for+a+DevOps+%2F+SRE+position" alt="Typing SVG" /></a>
 </p>
 
 <p align='center'>
@@ -87,34 +83,4 @@
   <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-</p>
-
-<p align='center'>
-  Pinned:
-</p>
-
-<p align="center">
-</p>
-
-<p align='center'>
-  <a href="https://github.com/DigitalHolography/Holovibes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DigitalHolography&repo=Holovibes&theme=holi" />
-  </a>
-  <a href="https://github.com/Hpn4/HEngine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hpn4&repo=HEngine&theme=holi&description_lines_count=1" />
-  </a>
-
-  <a href="https://github.com/Hpn4/AdventOfCode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hpn4&repo=AdventOfCode&theme=holi&description_lines_count=1" />
-  </a>
-  <a href="https://github.com/Hpn4/Gamma_Leonis-mastodonFX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hpn4&repo=Gamma_Leonis-mastodonFX&theme=holi&description_lines_count=1" />
-  </a>
-
-  <a href="https://github.com/Hpn4/HMessager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hpn4&repo=HMessager&theme=holi&description_lines_count=1" />
-  </a>
-  <a href="https://github.com/Hpn4/VintedBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hpn4&repo=VintedBot&theme=holi&description_lines_count=1" />
-  </a>
 </p>
